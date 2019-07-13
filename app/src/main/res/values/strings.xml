@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC-Phase1Challenge</string>
+    <string name="welcome_to_al">Welcome to ALC 4.0</string>
+    <string name="alc_4_phase_1">ALC 4 Phase 1</string>
+    <string name="my_profile">My Profile</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="phone_number_value">+201142097025</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="mohamed_mabrouk">\@Mohamed Mabrouk</string>
+    <string name="email">Email:</string>
+    <string name="email_value">mohamedmabrouk180@gmail.com</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="mohamed_mabrouk_title">Mohamed Mabrouk</string>
+    <string name="country">Country:</string>
+    <string name="egypt">Egypt</string>
+    <string name="personal_image">personal image</string>
+    <string name="back_image">back image</string>
+    <string name="about_alc">About ALC</string>
+</resources>
